@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundRectImageView">
+        <attr name="radius_size" format="dimension" />
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="border_overlay" format="boolean" />
+        <attr name="fill_color" format="color" />
+        <attr name="circle_background_color" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="AdapterImageView">
+        <attr name="adapter_mode" format="integer" />
+        <attr name="adapter_width" format="integer" />
+        <attr name="adapter_height" format="integer" />
+        <attr name="adapter_inner_margin" format="integer" />
+        <attr name="adapter_out_margin" format="integer" />
+        <attr name="adapter_num" format="integer" />
+    </declare-styleable>
+</resources>
