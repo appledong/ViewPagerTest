@@ -5,7 +5,7 @@
 基于修改也麻烦标注一下。
 
 效果图：
-![xzmm](https://github.com/appledong/ViewPagerTest/blob/master/WX20190527-143016.png ''效果'')
+![xzmm](https://github.com/appledong/ViewPagerTest/blob/master/WX20190527-143016.png)
 
 修改内容：
 1. 将居中修改为居左
